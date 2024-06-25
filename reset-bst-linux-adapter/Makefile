@@ -1,1 +1,0 @@
-obj-y += cargo-reset_bst_linux_adapter.o
